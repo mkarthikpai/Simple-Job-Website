@@ -1,8 +1,5 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This React project includes functionality for posting, viewing, and editing jobs. 
+It incorporates Tailwind CSS for styling, React Router for navigation, React Icons for iconography, and React Toastify for notifications. Additionally, it features a spinner loader, efficient data fetching, and extensive use of React hooks.
+The backend is powered by JSON Server, which facilitates storing objects, data retrieval, adding new entries, and editing and deleting functionality.
