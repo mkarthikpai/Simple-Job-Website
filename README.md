@@ -1,4 +1,4 @@
-# React + Vite
+# Job Website  (React + Vite Project)
 
 This React project includes functionality for posting, viewing, and editing jobs. 
 
